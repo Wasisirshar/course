@@ -10,11 +10,15 @@ class CalculatorView extends StatelessWidget {
       child: Column(
         children: [
         DisplayOne(),
+          DisplayOne(),
         ],
       ),
     );
   }
 }
+
+
+
 
 
 
